@@ -97,7 +97,7 @@ e.g. 8000만원~1억원
 
 애플 프레임워크. 스마트홈 관련.
 
-아래는 현재 애플스토어에서도 발견할 수 있는 온습도 센서.
+아래는 현재 애플스토어에서도 구매할 수 있는 온습도 센서.
 
 <https://www.aqara.com/kr/temperature_humidity_sensor.html>
 
